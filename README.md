@@ -607,16 +607,8 @@ Se conseguirmos entender **como o projeto foi construído apenas analisando o re
 
 ---
 
-# 🏆 Desafio Final
+# Assinado e Criado por:
 
-Seu objetivo não é simplesmente:
-
-> "fazer o projeto funcionar".
-
-Seu objetivo é conseguir demonstrar:
-
-> **como sua equipe planejou, desenvolveu, versionou, revisou e entregou o projeto.**
-
-Porque no desenvolvimento de software:
-
-**Código importa. Processo também.**
+```text
+Paulo André Santos Queiroz
+```
